@@ -12,3 +12,13 @@ It is a frontend practice project to understand layout designing, flexbox, grid,
 ## 🛠️ Tech Stack
 - HTML5
 - CSS3 (Flexbox, Grid)
+  
+## 📷 Screenshots
+![Demo Screenshot](https://github.com/user-attachments/assets/5530053d-bfea-4ea6-a9c4-c59e1e917ad0)
+
+
+## 🌐 Live Demo
+[View Demo]()
+
+## ✨ Author
+- [Preeti Aanjna](https://github.com/preeti-aanjna)
