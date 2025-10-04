@@ -18,7 +18,7 @@ It is a frontend practice project to understand layout designing, flexbox, grid,
 
 
 ## 🌐 Live Demo
-[View Demo]()
+[View Demo]( https://preeti-aanjna.github.io/Amazon-clone/)
 
 ## ✨ Author
 - [Preeti Aanjna](https://github.com/preeti-aanjna)
